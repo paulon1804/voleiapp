@@ -1103,3 +1103,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = AplicacaoVolei(root)
     root.mainloop()
+#oi
